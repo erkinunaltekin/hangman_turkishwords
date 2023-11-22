@@ -1,0 +1,1 @@
+Bu adam asmaca oyunu Türk Dil Kurumunun internet sitesinde bulunan türkçe kelimeler ile yapılmıştır oyunumuzda 6 can olup words.txt dosyasında kelimeler listesi mevcuttur
